@@ -1,5 +1,6 @@
 var a = 1;
 var b = 2;
-var c = a + b;
+var c = 2;
+var d = (a + b) * c;
 
-console.log(c);
+console.log(d);
